@@ -19,3 +19,4 @@ Built with Python, TensorFlow/Keras, and yfinance"
 "Implements technical indicators and data normalization"
 
 "Designed for both short-term traders and long-term investors
+![download](https://github.com/user-attachments/assets/49b9b89b-0195-4450-922f-a80870b7f38e)
